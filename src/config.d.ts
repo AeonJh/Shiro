@@ -39,6 +39,10 @@ declare global {
       text: string
       link: string
     }
+    micp?: {
+      text: string
+      link: string
+    }
   }
 
   export interface Custom {
